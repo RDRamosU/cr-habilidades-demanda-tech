@@ -1,0 +1,20 @@
+habilidad,categoria_habilidad,n_ocupaciones,ocupaciones,niveles
+SQL,Base de datos,3,Analista de Sistemas / Desarrollador de Software / Programador de Aplicaciones,Avanzado / Intermedio
+CCNA,Certificación,2,Desarrollador de Software / Técnico en Telecomunicaciones,Avanzado
+JavaScript,Lenguaje,2,Desarrollador de Software / Programador de Aplicaciones,Avanzado / Intermedio
+Python,Lenguaje,2,Analista de Sistemas / Programador de Aplicaciones,Básico / Intermedio
+Java,Lenguaje,2,Desarrollador de Software / Programador de Aplicaciones,Avanzado / Intermedio
+.NET,Framework,1,Desarrollador de Software,Avanzado
+Angular,Framework,1,Desarrollador de Software,Avanzado
+Apache/PHP/MySQL,Backend,1,Desarrollador de Software,Intermedio
+Excel avanzado,Herramienta,1,Analista de Sistemas,Avanzado
+CSS3,Frontend,1,Desarrollador de Software,Básico
+CRM,Herramienta,1,Operador Bilingüe Call Center,Básico
+ITIL,Certificación,1,Analista de Sistemas,Básico
+HTML5,Frontend,1,Desarrollador de Software,Avanzado
+Git,Herramienta,1,Programador de Aplicaciones,Intermedio
+Office 365,Herramienta,1,Operador Bilingüe Call Center,Básico
+Oracle,Base de datos,1,Desarrollador de Software,Avanzado
+Redes LAN/WAN,Infraestructura,1,Técnico en Telecomunicaciones,Intermedio
+TCP/IP,Protocolo,1,Técnico en Telecomunicaciones,Avanzado
+UML,Metodología,1,Analista de Sistemas,Intermedio

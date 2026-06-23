@@ -1,0 +1,26 @@
+ocupacion,habilidad,categoria_habilidad,nivel_requerido
+Desarrollador de Software,.NET,Framework,Avanzado
+Desarrollador de Software,Angular,Framework,Avanzado
+Desarrollador de Software,SQL,Base de datos,Avanzado
+Desarrollador de Software,Oracle,Base de datos,Avanzado
+Desarrollador de Software,Java,Lenguaje,Intermedio
+Desarrollador de Software,JavaScript,Lenguaje,Intermedio
+Desarrollador de Software,HTML5,Frontend,Avanzado
+Desarrollador de Software,CSS3,Frontend,Básico
+Desarrollador de Software,CCNA,Certificación,Avanzado
+Desarrollador de Software,Apache/PHP/MySQL,Backend,Intermedio
+Analista de Sistemas,SQL,Base de datos,Avanzado
+Analista de Sistemas,Excel avanzado,Herramienta,Avanzado
+Analista de Sistemas,UML,Metodología,Intermedio
+Analista de Sistemas,ITIL,Certificación,Básico
+Analista de Sistemas,Python,Lenguaje,Básico
+Programador de Aplicaciones,Java,Lenguaje,Avanzado
+Programador de Aplicaciones,JavaScript,Lenguaje,Avanzado
+Programador de Aplicaciones,Python,Lenguaje,Intermedio
+Programador de Aplicaciones,SQL,Base de datos,Intermedio
+Programador de Aplicaciones,Git,Herramienta,Intermedio
+Técnico en Telecomunicaciones,CCNA,Certificación,Avanzado
+Técnico en Telecomunicaciones,TCP/IP,Protocolo,Avanzado
+Técnico en Telecomunicaciones,Redes LAN/WAN,Infraestructura,Intermedio
+Operador Bilingüe Call Center,CRM,Herramienta,Básico
+Operador Bilingüe Call Center,Office 365,Herramienta,Básico

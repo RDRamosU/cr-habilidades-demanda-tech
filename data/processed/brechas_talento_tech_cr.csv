@@ -1,0 +1,9 @@
+brecha,impacto,impacto_num,cubre_sistema_universitario,score_prioridad
+Inglés B1-C1,Crítico,4,Parcialmente,8
+"Frameworks modernos (Angular, React)",Alto,3,No,9
+"Cloud computing (AWS, Azure)",Alto,3,No,9
+"Certificaciones (CCNA, ITIL, Scrum)",Alto,3,No,9
+Habilidades blandas,Medio,2,Parcialmente,4
+Bases de datos avanzadas,Medio,2,Sí,2
+DevOps y CI/CD,Medio,2,No,6
+Ciberseguridad,Medio,2,Parcialmente,4
