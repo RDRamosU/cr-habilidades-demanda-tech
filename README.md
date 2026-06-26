@@ -79,10 +79,10 @@ cr-habilidades-demanda-tech/
 
 | Notebook | Descripción | Estado |
 |----------|-------------|--------|
-| [01 — Definición del problema](notebooks/01_definicion_problema.ipynb) | Contexto, preguntas, fuentes y brechas anticipadas | 🟡 En progreso |
-| [02 — Exploración de datos](notebooks/02_exploracion_datos.ipynb) | Extracción de perfiles y habilidades del MTSS y CONARE | ⚪ Pendiente |
-| [03 — Limpieza y preparación](notebooks/03_limpieza_preparacion.ipynb) | Consolidación y dataset de habilidades final | ⚪ Pendiente |
-| [04 — Visualizaciones y hallazgos](notebooks/04_visualizaciones_hallazgos.ipynb) | Gráficas de demanda · brechas · conclusiones | ⚪ Pendiente |
+| [01 — Definición del problema](notebooks/01_definicion_problema.ipynb) | Contexto, preguntas, fuentes y brechas anticipadas | 🟢 Completado |
+| [02 — Exploración de datos](notebooks/02_exploracion_datos.ipynb) | Extracción de perfiles y habilidades del MTSS y CONARE | 🟢 Completado |
+| [03 — Limpieza y preparación](notebooks/03_limpieza_preparacion.ipynb) | Consolidación y dataset de habilidades final | 🟢 Completado |
+| [04 — Visualizaciones y hallazgos](notebooks/04_visualizaciones_hallazgos.ipynb) | Gráficas de demanda · brechas · conclusiones | 🟢 Completado |
 
 ---
 
@@ -123,12 +123,18 @@ jupyter notebook
 | # | Proyecto | Estado |
 |---|----------|--------|
 | 1 | [Graduados STEAM en CR 2014–2022](https://github.com/RDRamosU/cr-graduados-steam-analisis) | [🟢 Completado](https://www.linkedin.com/pulse/graduados-steam-de-las-universidades-estatales-costa-rica-zaj4e) |
-| 2 | [Mercado laboral tech en CR](https://github.com/RDRamosU/mercado-laboral-steam-cr) | 🟢 Completado |
-| **3** | **Habilidades demandadas por empresas tech en CR** ← estás aquí | 🟡 En progreso |
-| 4 | Comparativa regional: CR vs Latinoamérica en STEAM | ⚪ Pendiente |
+| 2 | [Mercado laboral tech en CR](https://github.com/RDRamosU/mercado-laboral-steam-cr) | [🟢 Completado](https://www.linkedin.com/posts/ruben-ramos_github-rdramosumercado-laboral-steam-cr-share-7474864458662715392-I-1o/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAChGLMoBf7GYJaNtqlgpzhtt9Jr9qJkG8zc) |
+| **3** | **Habilidades demandadas tech CR** ← estás aquí | [🟢 Completado](https://www.linkedin.com/posts/ruben-ramos_anaerlisisdedatos-steam-costarica-share-7475270119057805328-ASBm/) |
+| 4 | [CR vs Latinoamérica en STEAM](https://github.com/RDRamosU/cr-steam-comparativa-regional) | 🟢 Completado |
 
 ---
 
+## 📰 Artículo publicado
+
+Análisis completo publicado en LinkedIn:  
+[Habilidades Demandadas por Empresas Tech en Costa Rica]( https://www.linkedin.com/posts/ruben-ramos_anaerlisisdedatos-steam-costarica-share-7475270119057805328-ASBm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAChGLMoBf7GYJaNtqlgpzhtt9Jr9qJkG8zc) 
+
+---
 ## 👤 Autor
 
 **Ruben Dario Ramos Ulate**
